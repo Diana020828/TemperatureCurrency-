@@ -9,7 +9,10 @@ So, now I want to tell you how I made this program using JavaPOO.
 1. The first thing I did was to create the currency objects in a class and then start writing the logic program in a class called PooConversion in this place I created an Array with the currencies that the challenge demands from me. 
 2. I started to write the process for the conversion of the local currency in this case the Colombian peso to the rest of the currencies, I used processes like "if" and "for", the use of if was condition to know if COP or the other, and thus apply the relevant logic. On the other hand, I used the "for" structure to read and display the currencies. Finally, I used basic mathematical operations.
 
+# Temperature Conversor
+
 ![image](https://github.com/Diana020828/TemperatureCurrency-/assets/114787151/9c0fd79c-2058-46eb-9641-590799a8c2fe)
+
 
 
 
