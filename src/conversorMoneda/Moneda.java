@@ -1,10 +1,12 @@
-package Model;
+package conversorMoneda;
 
 public class Moneda {
-	private double valor;
-	private String nombre;
+	double valor;
+	String nombre;
+	
 
 	public Moneda(double valor, String nombre) {
+		super();
 		this.valor = valor;
 		this.nombre = nombre;
 	}
@@ -13,8 +15,18 @@ public class Moneda {
 		return valor;
 	}
 
+
+	public void setValor(double valor) {
+		this.valor = valor;
+	}
+
 	public String getNombre() {
 		return nombre;
 	}
 
+
+	public void setNombre(String nombre) {
+		this.nombre = nombre;
+	}
+	
 }
