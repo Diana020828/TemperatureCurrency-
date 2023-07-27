@@ -24,7 +24,6 @@ Finally if you want how funtion the program you cant see the next video.
 
 ![image](https://github.com/Diana020828/TemperatureCurrency-/assets/114787151/c039ea77-5e4f-4f27-85d1-1ad55b174dc9)
 
-![video](https://youtu.be/ALYzwubYYFQ)
-
+https://youtu.be/ALYzwubYYFQ
 
 
